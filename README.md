@@ -16,8 +16,6 @@ Welcome! This portfolio showcases data analytics projects I've completed using G
 
 ---
 
-*(More projects can be added as you go)*
-
 ## 👤 About Me
 MBA student specializing in Data Analytics. Passionate about using data to drive business decisions. Seeking roles in business analysis, data analytics, or strategy.
 
