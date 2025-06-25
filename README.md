@@ -19,4 +19,4 @@ Welcome! This portfolio showcases data analytics projects I've completed using G
 ## 👤 About Me
 MBA student specializing in Data Analytics. Passionate about using data to drive business decisions. Seeking roles in business analysis, data analytics, or strategy.
 
-[LinkedIn Profile](https://www.linkedin.com/in/your-link) • [Email](zaidfdgh@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/zaid-alfaddagh) • [Email](to:zaidfdgh@gmail.com)
